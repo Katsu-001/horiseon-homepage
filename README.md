@@ -1,5 +1,5 @@
 # wk1-challenge
-first homework assignment!
+Horiseon Social Media Homepage
 
 ## Description
 
@@ -8,7 +8,7 @@ A webpage for a marketing agency to follow accessibility standards and be optimi
 
 ## Usage
 
-vitis the webpage and be able to access the information.
+Visit the webpage and access the information about the social media company Hoiseon.
 
 
 ## Credits
